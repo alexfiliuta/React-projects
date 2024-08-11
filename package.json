@@ -1,5 +1,5 @@
 {
-  "homepage": "http://alexfiliuta.github.io/React-to-do-list",
+  "homepage": "https://alexfiliuta.github.io/React-to-do-list",
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.1.1",
